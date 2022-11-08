@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![alrodri2's 42 stats](https://badge.mediaplus.ma/black/alrodri2)](https://github.com/oakoudad/badge42)
-
-[![alrodri 42 stats](https://badge.mediaplus.ma/darkgray/alrodri2?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![alrodri 42 stats](https://badge.mediaplus.ma/black/alrodri2?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
