@@ -29,7 +29,7 @@ As a competitive student and someone who loves challenges, I am always signing u
   
   We submitted our code along with a paper explaining our solution, how and why we decided to do everything we decided to do. We were awarded with the **2nd Place Hunter Hub University of Calgary Entrepeneurship Award** and **3rd Place Let's Talk Science Analythics Award**
   
-  You can find the repo with all the code and our submitted paper [here](https://github.com/AlexadeZ17/STEMFellowship_Alex_Andrei)
+  You can find the repo with all the code and our submitted paper [here](https://github.com/AlexadeZ17/STEMFellowship_Alex_Andrei) and the official competition [webpage](https://stemfellowship.org/2021-22-hsbdc/) 
   
   <div id="header" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sustainable_Development_Goal_7.png" width="100"/>
