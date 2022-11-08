@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **AlexadeZ17/AlexadeZ17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![42 Project Score](https://42-project-badge.glitch.me/users/alrodri2/project/libft)](https://github.com/ricardoreves/42-project-badge)
+
