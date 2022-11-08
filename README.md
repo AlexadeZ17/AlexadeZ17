@@ -1,5 +1,4 @@
-### 
-
+### Welcome to my Github Page! ✌️
 <!--
 **AlexadeZ17/AlexadeZ17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently studying at 42 Barcelona, part of the 42 Network, considered to be the most innovative coding school worldwide. Here you can see how am I doing there👇
 
 [![alrodri 42 stats](https://badge.mediaplus.ma/darkblue/alrodri2?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
