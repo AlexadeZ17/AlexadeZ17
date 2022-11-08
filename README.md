@@ -8,7 +8,7 @@ I am Álex Rodríguez Pérez, a 18 year old Computer Science student who has alw
 
 I am currently studying at 42 Barcelona, part of the 42 Network, considered to be the most innovative coding school worldwide. Here you can see how am I doing there👇
 
-[![alrodri 42 stats](https://badge.mediaplus.ma/darkblue/alrodri2?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![alrodri2's 42 stats](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/stats?cursusId=21&coalitionId=206)](https://github.com/JaeSeoKim/badge42)
 
 | 42 Project | Repo |
 |----------- | ---- |
