@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![42 Project Score](https://42-project-badge.glitch.me/users/alrodri2/project/libft)](https://github.com/ricardoreves/42-project-badge)
+[![alrodri2's 42 stats](https://badge.mediaplus.ma/darkblue/alrodri2)](https://github.com/oakoudad/badge42)
+
 
