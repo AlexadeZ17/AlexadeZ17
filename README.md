@@ -24,6 +24,8 @@ Aside from studying Software Development at 42 Barcelona, I am also studying Com
 As a competitive student and someone who loves challenges, I am always signing up for Hackathons and Coding challenges, so in this section you will see all the work I did in those competitions and also how they ranked (If available)
 
 <details><summary>High School Big Data Challenge (STEM Fellowship)</summary>
+  
 This competition focused on giving solutions aiming to solve SDG 7 (Afordable and Clean Energy). Along with my teammate, Andrei Dumitrache, we created a Genetic Algorithm from scratch that could find the optimal combination of 3 renewable energy resources 🌱 that could give the most energy without overpassing a given budget 💰.
+  
   We submitted our code along with a paper explaining our solution, how and why we decided to do everything we decided to do. We were awarded with the **2nd Place Hunter Hub University of Calgary Entrepeneurship Award** and **3rd Place Let's Talk Science Analythics Award**
 </details>
