@@ -50,7 +50,9 @@ As a competitive student and someone who loves challenges, I am always signing u
   </summary>
   
   👉 This hackathon, organized by the faculty of math and statistics of UPC (FME) and the Asociation of Data science (AED) aimed to give Data Science solutions to real challenges given by real businesses such as Accenture or Qualcomm.
+  
   Our team 👨‍💻 , composed by freshman students from the Data Science Major and Computer Science Major worked hard to give a feasable solution to the challenges 🔨 propposed by the sponsors.
+  
   You can find our work on this [repository](https://github.com/AlexadeZ17/datathon2022-alex-gerard-laia-joan)
 </details>
   
