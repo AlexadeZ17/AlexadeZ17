@@ -1,10 +1,10 @@
-## Welcome to my Github Page! ✌️
+# Welcome to my Github Page! ✌️
 
-### whoami
+## whoami
 
 I am Álex Rodríguez Pérez, an 18 year old Computer Science student who has always been playing around with computers and programming. In my github you will find everything that I do during my degree, Hackathons, Personal projects and much more! If you like what I do feel free to give some stars, follow me or contact me if you need something!
 
-### Education: 42 Barcelona
+## Education: 42 Barcelona
 
 I am currently studying at 42 Barcelona, part of the 42 Network, considered to be the most innovative coding school worldwide. Here you can see how am I doing there👇
 
@@ -15,15 +15,15 @@ I am currently studying at 42 Barcelona, part of the 42 Network, considered to b
 | Libft      |    [![alrodri2's 42 Libft Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2788170)](https://github.com/JaeSeoKim/badge42)|
 | ft_printf  |    [![alrodri2's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2837193)](https://github.com/JaeSeoKim/badge42) |
 
-### Education: UNED
+## Education: UNED
 
 Aside from studying Software Development at 42 Barcelona, I am also studying Computer Science at UNED, the Online University of Spain. Here you can see some of the code I write on exercices or to understand better how things work. Not too interesting tho 🤷‍♂️
 
-### Projects and Competitions
+## Projects and Competitions
 
 As a competitive student and someone who loves challenges, I am always signing up for Hackathons and Coding challenges, so in this section you will see all the work I did in those competitions and also how they ranked (If available)
 
-#### Competitions
+### Competitions
 
 <details>
   <summary>
