@@ -53,6 +53,6 @@ As a competitive student and someone who loves challenges, I am always signing u
   
   Our team 👨‍💻 , composed by freshman students from the Data Science Major and Computer Science Major worked hard to give a feasable solution to the challenges 🔨 propposed by the sponsors.
   
-  You can find our work on this [repository](https://github.com/AlexadeZ17/datathon2022-alex-gerard-laia-joan)
+  You can find our work on this [repository](https://github.com/AlexadeZ17/datathon2022-alex-gerard-laia-joan) :octocat:
 </details>
   
