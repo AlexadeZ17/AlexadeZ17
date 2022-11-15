@@ -14,6 +14,7 @@ I am currently studying at 42 Barcelona, part of the 42 Network, considered to b
 |----------- | ---- |
 | Libft      |    [![alrodri2's 42 Libft Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2788170)](https://github.com/JaeSeoKim/badge42)|
 | ft_printf  |    [![alrodri2's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2837193)](https://github.com/JaeSeoKim/badge42) |
+| born2beroot | [![alrodri2's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2864507)](https://github.com/JaeSeoKim/badge42) |
 
 ## Education: UNED
 
