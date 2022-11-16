@@ -66,4 +66,14 @@ As a competitive student and someone who loves challenges, I am always signing u
   
   You can find our work on this [repository](https://github.com/AlexadeZ17/datathon2022-alex-gerard-laia-joan) :octocat:
 </details>
-  
+
+## Self learning notes
+
+As curious person I'm always learning new things. On this section of my github you will finde the notes I take on every thing I study on my own such as prepparation for certifications, experience-based learning or online courses I take just for fun. Each note section is a github :octocat repository with all relevant information and the actual notes. Here you will find just an index of them and the links to those repos.
+
+<details>
+  <summary>
+    eJPT preparation
+   </summary>
+   On this notes you will find all my notes of what I study towards pepearing myself for the eJPT certification. It will be my very first relevant CyberSecurity certification. I mean to make it for my own understanding and not as a "course" for others, although it might be helpful for some people to prepeare aswell.
+</details>
