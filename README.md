@@ -25,7 +25,7 @@ Aside from studying Software Development at 42 Barcelona, I am also studying Com
     ft_append
   </summary>
 
-While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data to it at the end of it. I considered interesting to recreate this function in C in order to understand how it worked this function under the hood ⚙️. The following [gist](https://gist.github.com/AlexadeZ17/002652b040f3ba119a94182afca60caf) shows the code I wrote.
+While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data at the end of them. I considered interesting to re-create this function on C in order to understand how it worked this function under the hood ⚙️. The following [gist](https://gist.github.com/AlexadeZ17/002652b040f3ba119a94182afca60caf) shows the code I wrote.
  
 </details>
   
