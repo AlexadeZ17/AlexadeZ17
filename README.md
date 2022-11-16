@@ -75,5 +75,5 @@ As curious person I'm always learning new things. On this section of my github y
   <summary>
     eJPT preparation
    </summary>
-   On this notes you will find all my notes of what I study towards pepearing myself for the eJPT certification 👨‍🎓. It will be my very first relevant CyberSecurity certification. I mean to make it for my own understanding and not as a "course" for others, although it might be helpful for some people to prepeare aswell.
+   👉 On this notes you will find all my notes of what I study towards pepearing myself for the eJPT certification 👨‍🎓. It will be my very first relevant CyberSecurity certification. I mean to make it for my own understanding and not as a "course" for others, although it might be helpful for some people to prepeare aswell.
 </details>
