@@ -22,7 +22,8 @@ Aside from studying Software Development at 42 Barcelona, I am also studying Com
 
 ### Python Lists append function
 
-While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data to it at the end of it. I considered interesting to recreate this function in C in order to understand how it worked this function under the hood ⚙️
+While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data to it at the end of it. I considered interesting to recreate this function in C in order to understand how it worked this function under the hood ⚙️ 
+<script src="https://gist.github.com/AlexadeZ17/002652b040f3ba119a94182afca60caf.js"></script>
 
 The code I wrote to understand that can be found on 
 
