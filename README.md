@@ -25,7 +25,7 @@ Aside from studying Software Development at 42 Barcelona, I am also studying Com
     ft_append
   </summary>
 
-While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data at the end of them. I considered interesting to re-create this function on C in order to understand how it worked this function under the hood ⚙️. The following [gist](https://gist.github.com/AlexadeZ17/002652b040f3ba119a94182afca60caf) shows the code I wrote.
+👉 While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data at the end of them. I considered interesting to re-create this function on C in order to understand how it worked this function under the hood ⚙️. The following [gist](https://gist.github.com/AlexadeZ17/002652b040f3ba119a94182afca60caf) shows the code I wrote.
  
 </details>
   
@@ -41,7 +41,7 @@ As a competitive student and someone who loves challenges, I am always signing u
     High School Big Data Challenge (STEM Fellowship)
   </summary>
   
-👉This competition focused on giving solutions aiming to solve SDG 7 (Afordable and Clean Energy). Along with my teammate, Andrei Dumitrache, we created a Genetic Algorithm from scratch that could find the optimal combination of 3 renewable energy resources 🌱 that could give the most energy without overpassing a given budget 💰.
+👉 This competition focused on giving solutions aiming to solve SDG 7 (Afordable and Clean Energy). Along with my teammate, Andrei Dumitrache, we created a Genetic Algorithm from scratch that could find the optimal combination of 3 renewable energy resources 🌱 that could give the most energy without overpassing a given budget 💰.
   
   We submitted our code along with a paper explaining our solution, how and why we decided to do everything we decided to do. We were awarded with the **2nd Place Hunter Hub University of Calgary Entrepeneurship Award** and **3rd Place Let's Talk Science Analythics Award**
   
