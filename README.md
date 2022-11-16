@@ -20,6 +20,12 @@ I am currently studying at 42 Barcelona, part of the 42 Network, considered to b
 
 Aside from studying Software Development at 42 Barcelona, I am also studying Computer Science at UNED, the Online University of Spain. Here you can see some of the code I write on exercices or to understand better how things work. Not too interesting tho 🤷‍♂️
 
+### Python Lists append function
+
+While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data to it at the end of it. I considered interesting to recreate this function in C in order to understand how it worked this function under the hood ⚙️
+
+The code I wrote to understand that can be found on 
+
 ## Projects and Competitions
 
 As a competitive student and someone who loves challenges, I am always signing up for Hackathons and Coding challenges, so in this section you will see all the work I did in those competitions and also how they ranked (If available)
