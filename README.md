@@ -69,7 +69,7 @@ As a competitive student and someone who loves challenges, I am always signing u
 
 ## Self learning notes
 
-As a curious person I'm always learning new things. On this section of my github you will find the notes I take on every thing I study on my own such as prepparation for certifications, experience-based learning or online courses I take just for fun. Each note section is a github :octocat repository with all relevant information and the actual notes. Here you will find just an index of them and the links to those repos.
+As a curious person I'm always learning new things. On this section of my github you will find the notes I take on every thing I study on my own such as prepparation for certifications, experience-based learning or online courses I take just for fun. Each note section is a github :octocat: repository with all relevant information and the actual notes. Here you will find just an index of them and the links to those repos.
 
 <details>
   <summary>
