@@ -67,6 +67,19 @@ As a competitive student and someone who loves challenges, I am always signing u
   You can find our work on this [repository](https://github.com/AlexadeZ17/datathon2022-alex-gerard-laia-joan) :octocat:
 </details>
 
+### Personal Projects: CyberSecurity 👮
+
+Cybersecurity is the field of computer science I like the most. It requires deep understanding on almost every topic of computer science in order to know how things can be used in a way they are not intended to. It also requires to think creatively 🎨 to find those unexpected behaviours, or to fix them 🔧. This, and many other things are what makes me love so much cybersecurity and thus, it deserves a space here. Those are some of the programming projects I developed (will be updated since most of them have to be recovered from a broken computer) 💻
+
+<details>
+  <summary>
+    SecureFolders
+  </summary>
+  
+  When I first started to investigate about cybersecurity and learning things, I felt eagger to develope something that could help making computers a bit more secure. At that time I still had few knowledge about the field, but anyways, I created this program called _Secure Folders_ which aimed to make folders only accesible with a password. This is not quite the case since anyone could bring the folder back to normal again without authenticating, but still, I feel proud of what I was able to do 💪. This [repo](https://github.com/AlexadeZ17/SecureFolders) contains all the code I wrote, both graphical and non graphical versions.
+</details>
+  
+
 ## Self learning notes
 
 As a curious person I'm always learning new things. On this section of my github you will find the notes I take on every thing I study on my own such as prepparation for certifications, experience-based learning or online courses I take just for fun. Each note section is a github :octocat: repository with all relevant information and the actual notes. Here you will find just an index of them and the links to those repos.
