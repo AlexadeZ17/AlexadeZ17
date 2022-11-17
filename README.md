@@ -99,6 +99,6 @@ As a curious person I'm always learning new things. On this section of my github
    
    In this section I'll be posting write ups and notes of the Hack The Box machines I solve to train myself on cybersecurity. Notice that all the machines that I will be posting write ups on are retired machines and thus, I am allowed to publish them. You will also find here all the code I wrote to solve the machine or to automate the process.
    
-   The [repo] :octocat: has all the folders with each machine on a separate folder.
+   The [repo](https://github.com/AlexadeZ17/HTB-writeups) :octocat: has all the folders with each machine on a separate folder.
    
    </details>
