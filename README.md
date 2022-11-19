@@ -101,4 +101,14 @@ As a curious person I'm always learning new things. On this section of my github
    
    The [repo](https://github.com/AlexadeZ17/HTB-writeups) :octocat: has all the folders with each machine on a separate folder.
    
-   </details>
+</details>
+
+<details>
+  <summary>
+    Ransomware Forensics Workshop
+   </summary>
+   
+   This was a workshop organized by 42 Barcelona and Central IP, a cybersecurity consulting company. In this talk we were able to analyze several real-case ransomware atacks and the way they gained acces to the computers and executed that ransomware. We also took a look at the criminal organzations that was behind them and how they were structured based on the Bitcoin payment trail.
+   
+   It was a really interesting workshop to know how ransomware worked and how it was introduced into companyes, as well as looking into the criminal structure.
+</details>
