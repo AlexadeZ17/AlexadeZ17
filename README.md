@@ -112,10 +112,3 @@ As a curious person I'm always learning new things. On this section of my github
    
    It was a really interesting workshop to know how ransomware worked and how it was introduced into companyes, as well as looking into the criminal structure.
 </details>
-
-<details>
-  <summary>
-    SOC Analyst Level 1
-   </summary>
-   
-   Here I'll be posting my notes for the Cybrary Career Path [_SOC Analyst Level 1_](https://www.cybrary.it/course/welcome-to-the-soc-analyst-level-1-career-path). Thanks to the Ransomware Forensics Workshop, I discovered the Blue Team side of cybersecurity and I decided to learn more about it, so that's why I'm taking this course. I believe it will not only improve my understanding about cybersecurity but also will make me a better pentester, since I will know better the defence techniques. This is the [repo :octocat:](https://github.com/AlexadeZ17/SOC_Level_1) where my notes 🗒️ will be posted.
