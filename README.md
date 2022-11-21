@@ -112,3 +112,10 @@ As a curious person I'm always learning new things. On this section of my github
    
    It was a really interesting workshop to know how ransomware worked and how it was introduced into companyes, as well as looking into the criminal structure.
 </details>
+
+<details>
+  <summary>
+    SOC Analyst Level 1
+   </summary>
+   
+   Here I'll be posting my notes for the Cybrary Career Path [_SOC Analyst Level 1_](https://www.cybrary.it/course/welcome-to-the-soc-analyst-level-1-career-path)
